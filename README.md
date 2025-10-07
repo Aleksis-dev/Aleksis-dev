@@ -1,6 +1,9 @@
 # 💫 About Me:
 Hi there 👋 I'm Aleksis!  <br>I'm a 2nd-year Programming Technician student at Ventspils Tehnikums, with a strong interest in writing clean, modular, and well-documented code.<br><br>Right now, I'm building small projects based on UML and other diagrams to practice turning software designs into real, maintainable systems.<br><br>I care about clarity in code, simple architecture, and continuous learning.
 
+Latest Project:
+https://github.com/Aleksis-dev/Rise
+
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Lastovskis08@gmail.com) 

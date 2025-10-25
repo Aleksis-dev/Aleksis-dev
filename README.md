@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋 I'm Aleksis!  <br>I'm a 2nd-year Programming Technician student at Ventspils Tehnikums, with a strong interest in writing clean, modular, and well-documented code.<br><br>Right now, I'm building small projects based on UML and other diagrams to practice turning software designs into real, maintainable systems.<br><br>I care about clarity in code, simple architecture, and continuous learning.
+Hi there 👋 I'm Aleksis!  <br>I'm a 2nd-year Programming Technician student at Ventspils Tehnikums, with a strong interest in writing clean, modular, and well-documented code.<br>I care about clarity in code, simple architecture, and continuous learning.
 
 Latest Project:
 https://github.com/Aleksis-dev/Rise
